@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enzhi1027
+- 👋 Hi, I’m Eunji Lee
 - 👀 I’m interested in musical and AI
 - 🌱 I’m currently learning JAVA, Python, C, German and English
 - 💞️ I’m looking to collaborate on AI, application development, etc
