@@ -2,7 +2,7 @@
 - 👀 I’m interested in musical and AI
 - 🌱 I’m currently learning JAVA, Python, C, German and English
 - 💞️ I’m looking to collaborate on AI, application development, etc
-- 📫 How to reach me : KHenzhi1027@gmail.com
+- 📫 How to reach me : enzhi1027@gmail.com
 - 😄 Pronouns: Lee
 - ⚡ Fun fact: I lived in Germany for about 6 months, but I'm not good at German...;;
 
